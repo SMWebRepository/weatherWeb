@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/weatherWeb/static/js/app.a9e9fe9f.chunk.js",
-    "app.js.map": "/weatherWeb/static/js/app.a9e9fe9f.chunk.js.map",
+    "app.js": "/weatherWeb/static/js/app.63e5750d.chunk.js",
+    "app.js.map": "/weatherWeb/static/js/app.63e5750d.chunk.js.map",
     "runtime~app.js": "/weatherWeb/static/js/runtime~app.7abee161.js",
     "runtime~app.js.map": "/weatherWeb/static/js/runtime~app.7abee161.js.map",
     "static/js/2.97f0b2d5.chunk.js": "/weatherWeb/static/js/2.97f0b2d5.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime~app.7abee161.js",
     "static/js/2.97f0b2d5.chunk.js",
-    "static/js/app.a9e9fe9f.chunk.js"
+    "static/js/app.63e5750d.chunk.js"
   ]
 }
